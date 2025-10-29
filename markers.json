@@ -1,0 +1,1602 @@
+{
+  "src/app/page.tsx": [
+    {
+      "id": "h1-f4277f32",
+      "file": "src/app/page.tsx",
+      "start": {
+        "line": 4,
+        "column": 4,
+        "index": 60
+      },
+      "end": {
+        "line": 4,
+        "column": 31,
+        "index": 87
+      },
+      "component": "h1",
+      "type": "html"
+    },
+    {
+      "id": "h1-09b5e9f0",
+      "file": "src/app/page.tsx",
+      "start": {
+        "line": 5,
+        "column": 4,
+        "index": 123
+      },
+      "end": {
+        "line": 5,
+        "column": 31,
+        "index": 150
+      },
+      "component": "h1",
+      "type": "html"
+    },
+    {
+      "id": "p-7575130a",
+      "file": "src/app/page.tsx",
+      "start": {
+        "line": 6,
+        "column": 4,
+        "index": 176
+      },
+      "end": {
+        "line": 6,
+        "column": 40,
+        "index": 212
+      },
+      "component": "p",
+      "type": "html"
+    }
+  ],
+  "src/layouts/footer.tsx": [
+    {
+      "id": "footer-2566017a",
+      "file": "src/layouts/footer.tsx",
+      "start": {
+        "line": 4,
+        "column": 4
+      },
+      "end": {
+        "line": 4,
+        "column": 86
+      },
+      "component": "footer",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "footer-2566017a",
+      "file": "src/layouts/footer.tsx",
+      "start": {
+        "line": 4,
+        "column": 4
+      },
+      "end": {
+        "line": 4,
+        "column": 86
+      },
+      "component": "footer",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    }
+  ],
+  "src/layouts/header.tsx": [
+    {
+      "id": "header-96abb8b0",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 7,
+        "column": 4
+      },
+      "end": {
+        "line": 7,
+        "column": 103
+      },
+      "component": "header",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-b1d7fdaa",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 8,
+        "column": 6
+      },
+      "end": {
+        "line": 8,
+        "column": 55
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "nav-7fe3833a",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 11,
+        "column": 6
+      },
+      "end": {
+        "line": 11,
+        "column": 56
+      },
+      "component": "nav",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-b244a6d0",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 12,
+        "column": 8
+      },
+      "end": {
+        "line": 12,
+        "column": 23
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-443fcdac",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 13,
+        "column": 8
+      },
+      "end": {
+        "line": 13,
+        "column": 27
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-e0f53cf5",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 14,
+        "column": 8
+      },
+      "end": {
+        "line": 14,
+        "column": 28
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-5336ecc4",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 15,
+        "column": 8
+      },
+      "end": {
+        "line": 15,
+        "column": 30
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "MobileNav-8e52e771",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 17,
+        "column": 6
+      },
+      "end": {
+        "line": 17,
+        "column": 19
+      },
+      "component": "MobileNav",
+      "type": "component",
+      "props": {
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "header-96abb8b0",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 7,
+        "column": 4
+      },
+      "end": {
+        "line": 7,
+        "column": 103
+      },
+      "component": "header",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-b1d7fdaa",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 8,
+        "column": 6
+      },
+      "end": {
+        "line": 8,
+        "column": 55
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "nav-7fe3833a",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 11,
+        "column": 6
+      },
+      "end": {
+        "line": 11,
+        "column": 56
+      },
+      "component": "nav",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-b244a6d0",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 12,
+        "column": 8
+      },
+      "end": {
+        "line": 12,
+        "column": 23
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-443fcdac",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 13,
+        "column": 8
+      },
+      "end": {
+        "line": 13,
+        "column": 27
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-e0f53cf5",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 14,
+        "column": 8
+      },
+      "end": {
+        "line": 14,
+        "column": 28
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-5336ecc4",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 15,
+        "column": 8
+      },
+      "end": {
+        "line": 15,
+        "column": 30
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "MobileNav-8e52e771",
+      "file": "src/layouts/header.tsx",
+      "start": {
+        "line": 17,
+        "column": 6
+      },
+      "end": {
+        "line": 17,
+        "column": 19
+      },
+      "component": "MobileNav",
+      "type": "component",
+      "props": {
+        "__self": true,
+        "__source": true
+      }
+    }
+  ],
+  "src/layouts/mobile-nav.tsx": [
+    {
+      "id": "div-aa145143",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 14,
+        "column": 4
+      },
+      "end": {
+        "line": 14,
+        "column": 31
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "button-20002067",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 15,
+        "column": 6
+      },
+      "end": {
+        "line": 15,
+        "column": 51
+      },
+      "component": "button",
+      "type": "html",
+      "props": {
+        "onClick": true,
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "X-f479a981",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 18
+      },
+      "end": {
+        "line": 16,
+        "column": 43
+      },
+      "component": "X",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Menu-5a8d3b79",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 46
+      },
+      "end": {
+        "line": 16,
+        "column": 74
+      },
+      "component": "Menu",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-b689cc5c",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 19,
+        "column": 8
+      },
+      "end": {
+        "line": 19,
+        "column": 96
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "nav-071877d8",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 20,
+        "column": 10
+      },
+      "end": {
+        "line": 20,
+        "column": 55
+      },
+      "component": "nav",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-5924c044",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 21,
+        "column": 12
+      },
+      "end": {
+        "line": 21,
+        "column": 48
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-7b2d10fe",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 22,
+        "column": 12
+      },
+      "end": {
+        "line": 22,
+        "column": 52
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-2b1ced3e",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 23,
+        "column": 12
+      },
+      "end": {
+        "line": 23,
+        "column": 55
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-aa145143",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 14,
+        "column": 4
+      },
+      "end": {
+        "line": 14,
+        "column": 31
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "button-20002067",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 15,
+        "column": 6
+      },
+      "end": {
+        "line": 15,
+        "column": 51
+      },
+      "component": "button",
+      "type": "html",
+      "props": {
+        "onClick": true,
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "X-f479a981",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 18
+      },
+      "end": {
+        "line": 16,
+        "column": 43
+      },
+      "component": "X",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Menu-5a8d3b79",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 46
+      },
+      "end": {
+        "line": 16,
+        "column": 74
+      },
+      "component": "Menu",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-b689cc5c",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 19,
+        "column": 8
+      },
+      "end": {
+        "line": 19,
+        "column": 96
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "nav-071877d8",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 20,
+        "column": 10
+      },
+      "end": {
+        "line": 20,
+        "column": 55
+      },
+      "component": "nav",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-5924c044",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 21,
+        "column": 12
+      },
+      "end": {
+        "line": 21,
+        "column": 48
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-7b2d10fe",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 22,
+        "column": 12
+      },
+      "end": {
+        "line": 22,
+        "column": 52
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-2b1ced3e",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 23,
+        "column": 12
+      },
+      "end": {
+        "line": 23,
+        "column": 55
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-aa145143",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 14,
+        "column": 4
+      },
+      "end": {
+        "line": 14,
+        "column": 31
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "button-20002067",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 15,
+        "column": 6
+      },
+      "end": {
+        "line": 15,
+        "column": 51
+      },
+      "component": "button",
+      "type": "html",
+      "props": {
+        "onClick": true,
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "X-f479a981",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 18
+      },
+      "end": {
+        "line": 16,
+        "column": 43
+      },
+      "component": "X",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Menu-5a8d3b79",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 46
+      },
+      "end": {
+        "line": 16,
+        "column": 74
+      },
+      "component": "Menu",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-b689cc5c",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 19,
+        "column": 8
+      },
+      "end": {
+        "line": 19,
+        "column": 96
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "nav-071877d8",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 20,
+        "column": 10
+      },
+      "end": {
+        "line": 20,
+        "column": 55
+      },
+      "component": "nav",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-5924c044",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 21,
+        "column": 12
+      },
+      "end": {
+        "line": 21,
+        "column": 48
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-7b2d10fe",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 22,
+        "column": 12
+      },
+      "end": {
+        "line": 22,
+        "column": 52
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-2b1ced3e",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 23,
+        "column": 12
+      },
+      "end": {
+        "line": 23,
+        "column": 55
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-aa145143",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 14,
+        "column": 4
+      },
+      "end": {
+        "line": 14,
+        "column": 31
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "button-20002067",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 15,
+        "column": 6
+      },
+      "end": {
+        "line": 15,
+        "column": 51
+      },
+      "component": "button",
+      "type": "html",
+      "props": {
+        "onClick": true,
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "X-f479a981",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 18
+      },
+      "end": {
+        "line": 16,
+        "column": 43
+      },
+      "component": "X",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Menu-5a8d3b79",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 46
+      },
+      "end": {
+        "line": 16,
+        "column": 74
+      },
+      "component": "Menu",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-b689cc5c",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 19,
+        "column": 8
+      },
+      "end": {
+        "line": 19,
+        "column": 96
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "nav-071877d8",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 20,
+        "column": 10
+      },
+      "end": {
+        "line": 20,
+        "column": 55
+      },
+      "component": "nav",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-5924c044",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 21,
+        "column": 12
+      },
+      "end": {
+        "line": 21,
+        "column": 48
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-7b2d10fe",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 22,
+        "column": 12
+      },
+      "end": {
+        "line": 22,
+        "column": 52
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-2b1ced3e",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 23,
+        "column": 12
+      },
+      "end": {
+        "line": 23,
+        "column": 55
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-aa145143",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 14,
+        "column": 4
+      },
+      "end": {
+        "line": 14,
+        "column": 31
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "button-20002067",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 15,
+        "column": 6
+      },
+      "end": {
+        "line": 15,
+        "column": 51
+      },
+      "component": "button",
+      "type": "html",
+      "props": {
+        "onClick": true,
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "X-f479a981",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 18
+      },
+      "end": {
+        "line": 16,
+        "column": 43
+      },
+      "component": "X",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Menu-5a8d3b79",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 46
+      },
+      "end": {
+        "line": 16,
+        "column": 74
+      },
+      "component": "Menu",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-b689cc5c",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 19,
+        "column": 8
+      },
+      "end": {
+        "line": 19,
+        "column": 96
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "nav-071877d8",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 20,
+        "column": 10
+      },
+      "end": {
+        "line": 20,
+        "column": 55
+      },
+      "component": "nav",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-5924c044",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 21,
+        "column": 12
+      },
+      "end": {
+        "line": 21,
+        "column": 48
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-7b2d10fe",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 22,
+        "column": 12
+      },
+      "end": {
+        "line": 22,
+        "column": 52
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-2b1ced3e",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 23,
+        "column": 12
+      },
+      "end": {
+        "line": 23,
+        "column": 55
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-aa145143",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 14,
+        "column": 4
+      },
+      "end": {
+        "line": 14,
+        "column": 31
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "button-20002067",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 15,
+        "column": 6
+      },
+      "end": {
+        "line": 15,
+        "column": 51
+      },
+      "component": "button",
+      "type": "html",
+      "props": {
+        "onClick": true,
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "X-f479a981",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 18
+      },
+      "end": {
+        "line": 16,
+        "column": 43
+      },
+      "component": "X",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Menu-5a8d3b79",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 16,
+        "column": 46
+      },
+      "end": {
+        "line": 16,
+        "column": 74
+      },
+      "component": "Menu",
+      "type": "component",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "div-b689cc5c",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 19,
+        "column": 8
+      },
+      "end": {
+        "line": 19,
+        "column": 96
+      },
+      "component": "div",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "nav-071877d8",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 20,
+        "column": 10
+      },
+      "end": {
+        "line": 20,
+        "column": 55
+      },
+      "component": "nav",
+      "type": "html",
+      "props": {
+        "className": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-5924c044",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 21,
+        "column": 12
+      },
+      "end": {
+        "line": 21,
+        "column": 48
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-7b2d10fe",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 22,
+        "column": 12
+      },
+      "end": {
+        "line": 22,
+        "column": 52
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Link-2b1ced3e",
+      "file": "src/layouts/mobile-nav.tsx",
+      "start": {
+        "line": 23,
+        "column": 12
+      },
+      "end": {
+        "line": 23,
+        "column": 55
+      },
+      "component": "Link",
+      "type": "component",
+      "props": {
+        "href": true,
+        "onClick": true,
+        "__self": true,
+        "__source": true
+      }
+    }
+  ],
+  "src/layouts/theme-provider.tsx": [
+    {
+      "id": "Unknown-573f9c5e",
+      "file": "src/layouts/theme-provider.tsx",
+      "start": {
+        "line": 74,
+        "column": 4
+      },
+      "end": {
+        "line": 74,
+        "column": 60
+      },
+      "component": "Unknown",
+      "type": "component",
+      "props": {
+        "value": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Unknown-573f9c5e",
+      "file": "src/layouts/theme-provider.tsx",
+      "start": {
+        "line": 74,
+        "column": 4
+      },
+      "end": {
+        "line": 74,
+        "column": 60
+      },
+      "component": "Unknown",
+      "type": "component",
+      "props": {
+        "value": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Unknown-573f9c5e",
+      "file": "src/layouts/theme-provider.tsx",
+      "start": {
+        "line": 74,
+        "column": 4
+      },
+      "end": {
+        "line": 74,
+        "column": 60
+      },
+      "component": "Unknown",
+      "type": "component",
+      "props": {
+        "value": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Unknown-573f9c5e",
+      "file": "src/layouts/theme-provider.tsx",
+      "start": {
+        "line": 74,
+        "column": 4
+      },
+      "end": {
+        "line": 74,
+        "column": 60
+      },
+      "component": "Unknown",
+      "type": "component",
+      "props": {
+        "value": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Unknown-573f9c5e",
+      "file": "src/layouts/theme-provider.tsx",
+      "start": {
+        "line": 74,
+        "column": 4
+      },
+      "end": {
+        "line": 74,
+        "column": 60
+      },
+      "component": "Unknown",
+      "type": "component",
+      "props": {
+        "value": true,
+        "__self": true,
+        "__source": true
+      }
+    },
+    {
+      "id": "Unknown-573f9c5e",
+      "file": "src/layouts/theme-provider.tsx",
+      "start": {
+        "line": 74,
+        "column": 4
+      },
+      "end": {
+        "line": 74,
+        "column": 60
+      },
+      "component": "Unknown",
+      "type": "component",
+      "props": {
+        "value": true,
+        "__self": true,
+        "__source": true
+      }
+    }
+  ],
+  "src/app/layouts/footer.tsx": [
+    {
+      "id": "span-047d8653",
+      "file": "src/app/layouts/footer.tsx",
+      "start": {
+        "line": 5,
+        "column": 6,
+        "index": 160
+      },
+      "end": {
+        "line": 5,
+        "column": 12,
+        "index": 166
+      },
+      "component": "span",
+      "type": "html"
+    }
+  ],
+  "src/app/layouts/header.tsx": [
+    {
+      "id": "span-144f2cba",
+      "file": "src/app/layouts/header.tsx",
+      "start": {
+        "line": 9,
+        "column": 8,
+        "index": 312
+      },
+      "end": {
+        "line": 9,
+        "column": 14,
+        "index": 318
+      },
+      "component": "span",
+      "type": "html"
+    }
+  ]
+}
