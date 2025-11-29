@@ -1,3 +1,19 @@
-export default function BlogListPage() {
-  return <h1>Blog Articles</h1>;
+import { notFound } from "next/navigation";
+import BlogClient from "@/components/custom/blogClient";
+
+export function generateMetadata({ params }: { params: { slug: string } }) {
+  const post: any = [];
+  if (!post) return {};
+
+  return {
+    title: post.title,
+    description: post.description,
+  };
+}
+
+export default function BlogPage({ params }: { params: { slug: string } }) {
+  const post: any = [];
+  if (!post) return notFound();
+
+  return <BlogClient post={post} />;
 }

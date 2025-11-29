@@ -3,8 +3,8 @@ import React from "react";
 import { ReactNode } from 'react';
 import { Header } from '@/app/layouts/header';
 import { Footer } from '@/app/layouts/footer';
-import { MobileNav } from '@/app/layouts/mobile-nav';
-import { ThemeProvider } from '@/app/layouts/theme-provider';
+import { Navigation } from '@/components/custom/navigation';
+import { ThemeProvider } from '@/context/theme-provider';
 import { ClientScriptHandler } from './clientScriptHandler';
 
 // Optional metadata replaces <Head>
@@ -23,7 +23,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <ThemeProvider defaultTheme="system" storageKey="portfolio-theme">
           <div className="flex flex-col min-h-screen">
             <Header />
-            <MobileNav />
+            <Navigation />
             <main className="flex-grow">
               <ClientScriptHandler />
               {children}
