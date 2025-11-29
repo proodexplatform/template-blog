@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import BlogClient from "@/components/custom/blogClient";
+import BlogClient from "@/components/custom/blog-client";
 
 export function generateMetadata({ params }: { params: { slug: string } }) {
   const post: any = [];

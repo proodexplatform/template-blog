@@ -5,7 +5,7 @@ import { Header } from '@/app/layouts/header';
 import { Footer } from '@/app/layouts/footer';
 import { Navigation } from '@/components/custom/navigation';
 import { ThemeProvider } from '@/context/theme-provider';
-import { ClientScriptHandler } from './clientScriptHandler';
+import { ClientScriptHandler } from './client-script-handler';
 
 // Optional metadata replaces <Head>
 export const metadata = {
